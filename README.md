@@ -44,11 +44,3 @@ This repository provides verified documentation of my academic and professional 
 - **Certificate (PDF):** [View Document](certificates/python_diploma.pdf)
 
 ---
-
-## 📁 Repository Structure
-
-```bash
-📂 certificates/
-├── solidworks_cswa.pdf
-├── condusef_finance_education.pdf
-└── python_diploma.pdf
