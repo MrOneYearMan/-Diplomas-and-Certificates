@@ -1,59 +1,59 @@
-<h1 align="center">✨📜 My Certified Journey 📜✨</h1>
+<h1 align="center" style="color:#6C63FF;">🌟 My Certified Journey 🌟</h1>
 
 <p align="center">
-  <i>A curated gallery of my official diplomas, certifications, and recognitions.</i><br>
-  <i>Each document reflects a step in my path of continuous learning and professional growth.</i>
+  <em>📚 A colorful collection of official diplomas, certifications, and achievements.<br>
+  📌 Each one marks a milestone in my lifelong learning journey.</em>
 </p>
 
 ---
 
-## 🛠️ SOLIDWORKS – CSWA
+## 🎯 SOLIDWORKS – CSWA
 
-> **Certified SolidWorks Associate**  
-> 🗓️ *Issued:* September 19, 2022  
-> ⌛ *Valid Until:* April 5, 2025  
-> ✅ *Status:* **Valid**
+<div align="center" style="background:#f0f4ff; padding:15px; border-radius:10px; border:1px solid #d1d9ff;">
 
-<p align="center">
-  <a href="https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-93QYELR8VP">
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-93QYELR8VP" alt="CSWA QR Code">
-  </a>
-</p>
+🛠️ <strong>Certified SolidWorks Associate</strong><br>  
+📅 <strong>Issued:</strong> September 19, 2022 &nbsp;&nbsp;&nbsp;⏳ <strong>Valid Until:</strong> April 5, 2025<br>
+✅ <strong>Status:</strong> Valid  
+<br><br>
+📄 <a href="certificates/solidworks_cswa.pdf" target="_blank"><strong>View PDF Certificate</strong></a><br>
+🔗 <a href="https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-93QYELR8VP" target="_blank">Verify Online</a><br><br>
 
-🔗 [Click here to verify](https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-93QYELR8VP)  
-📄 PDF: `certificates/solidworks_cswa.pdf`
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-93QYELR8VP" alt="CSWA QR Code">
+</div>
 
 ---
 
-## 💰 Financial Education – CONDUSEF
+## 💸 CONDUSEF – Financial Education
 
-> **Curso de Educación Financiera (Financial Literacy Program)**  
-> 🗓️ *Completed:* July 19, 2022  
-> ✅ *Status:* **Valid**
+<div align="center" style="background:#e8fff1; padding:15px; border-radius:10px; border:1px solid #b9f2d0;">
 
-<p align="center">
-  <a href="https://inscripcion-diplomado.condusef.gob.mx/verifica_certificado.php?ida=213950&idg=44">
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=https://inscripcion-diplomado.condusef.gob.mx/verifica_certificado.php?ida=213950&idg=44" alt="CONDUSEF QR Code">
-  </a>
-</p>
+💰 <strong>Financial Education Program</strong><br>
+📅 <strong>Completed:</strong> July 19, 2022<br>
+✅ <strong>Status:</strong> Valid  
+<br><br>
+📄 <a href="certificates/condusef_finance_education.pdf" target="_blank"><strong>View PDF Certificate</strong></a><br>
+🔗 <a href="https://inscripcion-diplomado.condusef.gob.mx/verifica_certificado.php?ida=213950&idg=44" target="_blank">Verify Online</a><br><br>
 
-🔗 [Click here to verify](https://inscripcion-diplomado.condusef.gob.mx/verifica_certificado.php?ida=213950&idg=44)  
-📄 PDF: `certificates/condusef_finance_education.pdf`
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https://inscripcion-diplomado.condusef.gob.mx/verifica_certificado.php?ida=213950&idg=44" alt="CONDUSEF QR Code">
+</div>
 
 ---
 
 ## 🐍 Python Programming Diploma
 
-> **Diplomado en Python (Advanced Python Program)**  
-> 💾 *Format:* PDF only  
-> ✅ *Status:* **Valid and Complete**
+<div align="center" style="background:#fff0f5; padding:15px; border-radius:10px; border:1px solid #f5c6d6;">
 
-📄 PDF: `certificates/python_diploma.pdf`  
-🔒 *Verification link not available (PDF only)*
+🐍 <strong>Diplomado en Python</strong><br>
+🧾 <em>Advanced Python Programming diploma</em><br>
+✅ <strong>Status:</strong> Valid  
+<br><br>
+📄 <a href="certificates/python_diploma.pdf" target="_blank"><strong>View PDF Certificate</strong></a><br>
+<em>(No online verification link available)</em>
+</div>
 
 ---
 
-<h2 align="center">📁 Repository Structure</h2>
+<h2 align="center" style="color:#ff9966;">📁 Repository Structure</h2>
 
 ```bash
 📂 certificates/
