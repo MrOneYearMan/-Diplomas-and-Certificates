@@ -26,8 +26,7 @@ This repository provides verified documentation of my academic and professional 
 - **Program:** Financial Education Course
 - **Completed:** July 19, 2022
 - **Status:** ✅ Verified and Complete
-- **Online Verification:** [Click to verify](https://inscripcion-diplomado.condusef.gob.mx/verifica_certificado.php?ida=213950&idg=44)
-- **Certificate (PDF):** [View Document](certificates/condusef_finance_education.pdf)
+- **Online Verification:** [Click to verify](https://inscripcion-diplomado.condusef.gob.mx/verifica_certificado.php?ida=213950&idg=44) 
 
 <p align="center">
   <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https://inscripcion-diplomado.condusef.gob.mx/verifica_certificado.php?ida=213950&idg=44" alt="CONDUSEF QR Code">
