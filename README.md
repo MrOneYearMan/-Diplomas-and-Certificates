@@ -1,59 +1,51 @@
-<h1 align="center" style="color:#6C63FF;">🌟 My Certified Journey 🌟</h1>
+# 📄 Professional Certifications & Diplomas
+
+This repository provides verified documentation of my academic and professional development. It includes certificates from recognized institutions and programs that reflect my commitment to continuous learning, technical competency, and interdisciplinary growth.
+
+---
+
+## 🛠️ CSWA – Certified SOLIDWORKS Associate
+
+- **Institution:** Dassault Systèmes – SOLIDWORKS
+- **Certification:** CSWA (Certified SOLIDWORKS Associate)
+- **Issued:** September 19, 2022
+- **Valid Until:** April 5, 2025
+- **Status:** ✅ Verified and Active
+- **Online Verification:** [Click to verify](https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-93QYELR8VP)
+- **Certificate (PDF):** [View Document](certificates/solidworks_cswa.pdf)
 
 <p align="center">
-  <em>📚 A colorful collection of official diplomas, certifications, and achievements.<br>
-  📌 Each one marks a milestone in my lifelong learning journey.</em>
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-93QYELR8VP" alt="CSWA QR Code">
 </p>
 
 ---
 
-## 🎯 SOLIDWORKS – CSWA
+## 💰 Financial Education Program – CONDUSEF
 
-<div align="center" style="background:#f0f4ff; padding:15px; border-radius:10px; border:1px solid #d1d9ff;">
+- **Institution:** CONDUSEF (National Commission for the Protection and Defense of Users of Financial Services – Mexico)
+- **Program:** Financial Education Course
+- **Completed:** July 19, 2022
+- **Status:** ✅ Verified and Complete
+- **Online Verification:** [Click to verify](https://inscripcion-diplomado.condusef.gob.mx/verifica_certificado.php?ida=213950&idg=44)
+- **Certificate (PDF):** [View Document](certificates/condusef_finance_education.pdf)
 
-🛠️ <strong>Certified SolidWorks Associate</strong><br>  
-📅 <strong>Issued:</strong> September 19, 2022 &nbsp;&nbsp;&nbsp;⏳ <strong>Valid Until:</strong> April 5, 2025<br>
-✅ <strong>Status:</strong> Valid  
-<br><br>
-📄 <a href="certificates/solidworks_cswa.pdf" target="_blank"><strong>View PDF Certificate</strong></a><br>
-🔗 <a href="https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-93QYELR8VP" target="_blank">Verify Online</a><br><br>
-
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-93QYELR8VP" alt="CSWA QR Code">
-</div>
-
----
-
-## 💸 CONDUSEF – Financial Education
-
-<div align="center" style="background:#e8fff1; padding:15px; border-radius:10px; border:1px solid #b9f2d0;">
-
-💰 <strong>Financial Education Program</strong><br>
-📅 <strong>Completed:</strong> July 19, 2022<br>
-✅ <strong>Status:</strong> Valid  
-<br><br>
-📄 <a href="certificates/condusef_finance_education.pdf" target="_blank"><strong>View PDF Certificate</strong></a><br>
-🔗 <a href="https://inscripcion-diplomado.condusef.gob.mx/verifica_certificado.php?ida=213950&idg=44" target="_blank">Verify Online</a><br><br>
-
-<img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https://inscripcion-diplomado.condusef.gob.mx/verifica_certificado.php?ida=213950&idg=44" alt="CONDUSEF QR Code">
-</div>
+<p align="center">
+  <img src="https://api.qrserver.com/v1/create-qr-code/?size=160x160&data=https://inscripcion-diplomado.condusef.gob.mx/verifica_certificado.php?ida=213950&idg=44" alt="CONDUSEF QR Code">
+</p>
 
 ---
 
 ## 🐍 Python Programming Diploma
 
-<div align="center" style="background:#fff0f5; padding:15px; border-radius:10px; border:1px solid #f5c6d6;">
-
-🐍 <strong>Diplomado en Python</strong><br>
-🧾 <em>Advanced Python Programming diploma</em><br>
-✅ <strong>Status:</strong> Valid  
-<br><br>
-📄 <a href="certificates/python_diploma.pdf" target="_blank"><strong>View PDF Certificate</strong></a><br>
-<em>(No online verification link available)</em>
-</div>
+- **Institution:** [Institution Name Placeholder]
+- **Program:** Python Programming Diploma
+- **Status:** ✅ Completed
+- **Online Verification:** Not available
+- **Certificate (PDF):** [View Document](certificates/python_diploma.pdf)
 
 ---
 
-<h2 align="center" style="color:#ff9966;">📁 Repository Structure</h2>
+## 📁 Repository Structure
 
 ```bash
 📂 certificates/
