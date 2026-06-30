@@ -36,7 +36,7 @@ This repository provides verified documentation of my academic and professional 
 
 ## 🐍 Python Programming Diploma
 
-- **Institution:** [Institution Name Placeholder]
+- **Institution:** UANL
 - **Program:** Python Programming Diploma
 - **Status:** ✅ Completed
 - **Online Verification:** Not available
@@ -44,9 +44,9 @@ This repository provides verified documentation of my academic and professional 
 
 ---
 
-## 🐍 Quality Diploma
+## ©️ Quality Diploma
 
-- **Institution:** [Institution Name Placeholder]
+- **Institution:** UANL
 - **Program:**Quality Diploma
 - **Status:** ✅ Completed
 - **Online Verification:** Not available
