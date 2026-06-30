@@ -43,3 +43,13 @@ This repository provides verified documentation of my academic and professional 
 - **Certificate (PDF):** [View Document](certificates/python_diploma.pdf)
 
 ---
+
+## 🐍 Quality Diploma
+
+- **Institution:** [Institution Name Placeholder]
+- **Program:**Quality Diploma
+- **Status:** ✅ Completed
+- **Online Verification:** Not available
+- **Certificate (PDF):** [View Document](certificates/Calidad_diploma.pdf)
+
+---
